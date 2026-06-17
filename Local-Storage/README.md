@@ -16,3 +16,34 @@
  1. Session storage stores session until the session is working or start
  2. The user stays active on the website only that time session data will store once the browser close session storage data gone.
  3. session stay - data store , brower close session data gone
+
+
+ # Session storage -
+    
+ 1. Session storage stores session until the session is working or start
+ 2. The user stays active on the website only that time session data will store once the browser close session storage data gone.
+ 3. session stay - data store , brower close session data gone
+
+ # Difference Between Local Storage and Session Storage
+ 
+    Feature                            	Local Storage	                           Session Storage
+    Data Persistence     	            Permanent until removed	                   Exists only during the current session
+    Browser Close	                    Data remains	                           Data is removed
+    Storage Type	                    Key-value pairs	                           Key-value pairs
+    Use Case	                        User preferences, themes, saved data       Temporary session data, form data
+
+ # Quick Revision
+
+    Local Storage:
+
+    Data persists until manually removed.
+    Survives browser close and system restart.
+    Uses setItem(), getItem(), removeItem(), and clear().
+    Objects should be stored using JSON.stringify().
+    Objects should be retrieved using JSON.parse().
+
+    Session Storage:
+    
+    Data exists only while the browser tab is open.
+    Data is automatically removed when the tab/browser is closed.
+    Uses the same methods as Local Storage.
