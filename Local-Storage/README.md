@@ -26,11 +26,11 @@
 
  # Difference Between Local Storage and Session Storage
  
-    Feature                            	Local Storage	                           Session Storage
-    Data Persistence     	            Permanent until removed	                   Exists only during the current session
-    Browser Close	                    Data remains	                           Data is removed
-    Storage Type	                    Key-value pairs	                           Key-value pairs
-    Use Case	                        User preferences, themes, saved data       Temporary session data, form data
+    Feature                            	Local Storage	                            Session Storage
+    Data Persistence     	               Permanent until removed	                   Exists only during the current session
+    Browser Close	                        Data remains	                            Data is removed
+    Storage Type	                        Key-value pairs	                         Key-value pairs
+    Use Case	                           User preferences, themes, saved data       Temporary session data, form data
 
  # Quick Revision
 
