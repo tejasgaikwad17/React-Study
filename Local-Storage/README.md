@@ -17,6 +17,7 @@
  2. The user stays active on the website only that time session data will store once the browser close session storage data gone.
  3. session stay - data store , brower close session data gone
 
+<<<<<<< HEAD
 
  # Session storage -
     
@@ -47,3 +48,5 @@
     Data exists only while the browser tab is open.
     Data is automatically removed when the tab/browser is closed.
     Uses the same methods as Local Storage.
+=======
+>>>>>>> 8b572bcef942404d6baa0c3619cad48bec0cd3e9
