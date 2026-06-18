@@ -14,4 +14,5 @@
                         console.log('useEffect is running');    
                     },[])
     4. [] - Is the dependency which makes sure that it will executes once.
+    5. we can create useEffect() multiple tiems
 
