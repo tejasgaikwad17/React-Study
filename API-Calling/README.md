@@ -6,11 +6,11 @@
   
   ### fetch:
     1. This is inbuild methos which is created inside javascript.
-    2. It is available at the web apis.
+    2. It is available at the any web apis.
 
   ### axios:
     1. This is third party API.
-    2. For axios fetching fir use the command (npm i axios) for installing the the axios in the terminal
+    2. For axios fetching first use the command (npm i axios) for installing the the axios in the terminal
     3. import at the top of the page.
     3. axios.get('api_url') this method is ued for the api fetching.
 
