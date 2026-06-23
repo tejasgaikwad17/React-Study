@@ -11,3 +11,5 @@
 ### useEffect : 
     1. In this useEffect is used for work getData at the side stack.
     2. First this is worked at the button click.
+
+    done
