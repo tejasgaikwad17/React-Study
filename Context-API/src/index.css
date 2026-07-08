@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+h1{
+  font-size: 25px;
+}
+
+.light{
+  background-color: bisque;
+  bg-cyan-400 flex justify-between py-3 px-8 
+}
+
+.dark{
+  background-color: blue;
+}
