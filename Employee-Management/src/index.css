@@ -1,4 +1,11 @@
+body{
+    background-color: black
+}
 @import "tailwindcss";
 #TaskList::-webkit-scrollbar{
     display: none;
+}
+
+::placeholder{
+    color: gray;
 }
